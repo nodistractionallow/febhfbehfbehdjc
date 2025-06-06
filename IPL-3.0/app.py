@@ -210,5 +210,5 @@ def replay_match_view():
 # def simulate_next_ball():
 #     # ... (code for MatchSimulator based simulation call) ...
 
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=5000)
+# if __name__ == '__main__':
+#     app.run(debug=True, host='0.0.0.0', port=5000)
